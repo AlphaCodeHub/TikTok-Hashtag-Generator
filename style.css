@@ -117,3 +117,7 @@ button.copy-button {
 button.copy-button:hover {
     background-color: #010201;
 }
+#alert{
+    text-decoration: none;
+    list-style: none;
+}
